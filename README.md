@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SnehadriDutta
 - 👀 I’m interested in Machine and Deep Learning
 - 🌱 I’m currently learning Machine and Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any Machine and Deep Learning Projects
 - 📫 How to reach me dutta.sneahdri@gmail.com
 
 <!---
